@@ -16,6 +16,11 @@ DDCRNet addresses this issue by combining spatial and frequency reconstruction b
 - An FFT-based real-imaginary branch introduces spatial-frequency reconstruction consistency for background suppression.
 - A frequency-amplitude consistency loss constrains reconstruction toward background-dominated frequency statistics.
 
+
+## Architecture
+
+![DDCRNet architecture](figures/architecture.png)
+
 ## Code Availability
 
 The source code, training scripts, inference scripts, and detailed usage instructions will be released after the paper is accepted.
